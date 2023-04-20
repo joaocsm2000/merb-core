@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Resize angle, count, and stage on keypoint number change (#7598)
