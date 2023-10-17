@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Fix Yolo 8.0.206 scale bug (#7821)
