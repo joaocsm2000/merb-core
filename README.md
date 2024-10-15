@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+added badges (#45)
